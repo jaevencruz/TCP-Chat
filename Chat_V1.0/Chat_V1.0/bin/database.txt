@@ -1,0 +1,6 @@
+DATABASE:No-Clue-Crew-User-Database
+USERTOTAL:8
+USERS:Jaeven,Zach,AJ,Jared,Robert,QV,Phil,Liyuan,
+PASSWORDS:s1hVj2EvtZwLN{yj"p^>I|yxfvrX!'Y3JhATPdqIw;jCT@t%:mt+yw)"p(1T8IQ,_1hVj2EgtZtLN{oj"p^>IwyxfvrX!'r3JhA)PdqIw;GCd@r%tOt+tw)"Wi1T7IQ,g1hVj2Emt22LN{sj"p^>IyyxfvrX!'Y3JhA'PdqIw;UCT@t%:[t+yw)"a(1T7IQ,p1hVj22stZwLN{vj"p^>IyyxfvrX|'Y3J3A!PdqIw;TCT@t%:jt+yw)"m(1T8IQ,g1hVj2EjtZwLN{wj"pj>IyyxfvrX!'Y3JhA'PdqIw;UCw@t%:[t+yw)"aw1T7IQ,g1hVj2EmtZwLN{sj"p^>Iyyxfvrr!'Y3JhA'PdqIw;UrT@t%:[t+yw)"a(1T7IQ,s1hVj2EvtZwLN{yj"p^>I|yxfvrX!'Y3JhATPdqIw;jCT@t%:mt+yw)"p(1T8IQ,c1hVj2Ejt22LN{qj"p^>IxyxfvrX!'Y3JhA(PdqIw;NCT@t%:Ut+yw)"\(1T7IQ,
+NICKNAMES:J,Zachary,Benedict,Ja,Rob,QV,Philly,Lee,
+FRIENDS:Zach-AJ-QV,AJ-Jaeven-Jared,Zach-Robert,Jaeven-Robert,Liyuan-AJ,-1,-1,Jared-Robert-Zach,

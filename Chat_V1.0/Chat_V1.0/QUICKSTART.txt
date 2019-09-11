@@ -1,0 +1,9 @@
+QUICKSTART GUIDE
+1. Type cd bin
+2. ./client laguna.eecs.uci.edu 9005
+3. Login with these credentials
+	user: QV
+	password: orange
+4. Type --HELP for options
+	or
+   --CHAT to choose who to chat with

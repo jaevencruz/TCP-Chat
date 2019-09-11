@@ -1,0 +1,7 @@
+Installation of developer version of Chat:
+  1. gtar xvzf Chat_V1.0.tar.gz
+  2. evince Chat_V1.0/doc/Chat_UserManual.pdf
+  3. cd Chat_V1.0/bin
+  4. ./server <port number>
+  5. ./client <server>.eecs.uci.edu <port number>
+
